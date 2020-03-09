@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body": "^5.1.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
-    "mongoose": "^5.9.3"
+    "mongoose": "^5.9.3",
+    "parser": "^0.1.4"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
